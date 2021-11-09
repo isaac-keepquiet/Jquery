@@ -3,13 +3,13 @@
     <head>
 
         <style>
-           .descendants * {
+            .descendants * {
                display: block;
                border: 2px solid lightgray;
                color: lightgray;
                padding: 5px;
                margin: 15px;
-           } 
+            } 
         </style>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
